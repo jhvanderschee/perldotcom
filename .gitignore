@@ -2,6 +2,7 @@
 *.sw?
 public/
 *.log
+.hugo_build.lock
 
 # various names we've used to build the site locally
 _site/
